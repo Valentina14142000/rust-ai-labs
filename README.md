@@ -125,15 +125,15 @@ curl http://localhost:3000/health
 
 ## 🗺️ Roadmap
  
- AgentForge foundation
- Agent executor
- Tool registry
- Calculator tool
- LLM function calling
- Agent memory
- RustRAG
- InferGate
- MCP ecosystem
- DeepResearch-RS
- Edge AI
- LLM observability
+ - AgentForge foundation
+ - Agent executor
+ - Tool registry
+ - Calculator tool
+ - LLM function calling
+ - Agent memory
+ - RustRAG
+ - InferGate
+ - MCP ecosystem
+ - DeepResearch-RS
+ - Edge AI
+ - LLM observability
