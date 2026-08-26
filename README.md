@@ -118,12 +118,11 @@ cargo check
 cargo run
 
 API:
-
 http://localhost:3000
 
 Test:
-
 curl http://localhost:3000/health
+
 🗺️ Roadmap
  AgentForge foundation
  Agent executor
