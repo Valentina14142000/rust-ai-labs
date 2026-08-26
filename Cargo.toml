@@ -1,0 +1,13 @@
+[workspace]
+members = [
+    "01-agentforge",
+    "02-rustrag",
+    "03-infergate",
+    "04-mcp-ecosystem",
+    "05-rustinfer",
+    "06-deepresearch-rs",
+    "07-edgevision-rs",
+    "08-tracellm"
+]
+
+resolver = "2"
